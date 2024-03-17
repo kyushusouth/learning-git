@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-a
-=======
 aa
 aaa
 aa
->>>>>>> Stashed changes
 a
